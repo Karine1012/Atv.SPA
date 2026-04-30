@@ -1,0 +1,4 @@
+.lista { display: flex; flex-direction: column; gap: 15px; margin-top: 20px; }
+.produtosCard { padding: 20px; border-left: 5px solid #282c34; background: #eee; border-radius: 0 8px 8px 0; }
+
+.fotoProduto { width: 100%; max-width: 300px; margin-top: 10px; border-radius: 8px; }
