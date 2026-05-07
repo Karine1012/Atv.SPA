@@ -4,3 +4,7 @@
 .fotoPlaceholder { font-size: 50px; background: #ddd; width: 100px; height: 100px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; }
 .membro h4 { margin: 10px 0 5px; }
 .membro p { color: #666; margin: 0; }
+.fotoIntegrante { width: 150px; height: 200px; border-radius: 50%; object-fit: cover;}
+h4{
+    color: rgb(201, 93, 168);
+}

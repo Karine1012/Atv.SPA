@@ -1,4 +1,36 @@
-.lista { display: flex; flex-direction: column; gap: 15px; margin-top: 20px; }
-.produtosCard { padding: 20px; border-left: 5px solid #282c34; background: #eee; border-radius: 0 8px 8px 0; }
+.lista {
+    display: flex;
+    margin-top: 20px;
+}
+.produtosCard {
+    padding: 20px;
+    border-left: 5px solid #b9458c;
+    background: #eee;
+    border-radius: 0 8px 8px 0;
+}
 
-.fotoProduto { width: 100%; max-width: 300px; margin-top: 10px; border-radius: 8px; }
+.produtoCard {
+    padding: 20px;
+    border-radius: 0 8px 8px 0;
+}
+
+.fotoProduto {
+    width: 100%;
+    width: 250px;
+    height: 250px;
+    margin-top: 10px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+h1 {
+    color: #b9458c;
+}
+
+p{
+    color: #ae7198;
+}
+
+h3 {
+    color: #bd689e;
+}
